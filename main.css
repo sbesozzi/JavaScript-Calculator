@@ -3,15 +3,18 @@ ul {
 }
 
 .container {
- width: 100%;
- padding-left: 170px
+/* width: 100%;
+ padding-left: 170px;*/
 }
 .calculator {
   height: 511px;
   width: 408px;
-  text-align: center;
- /* margin: 0;*/
- /* padding-left: 0px;*/
+  margin-left: 340px;
+  margin-top: 50px;
+ /* text-align: center;*/
+
+  
+  padding-left: 0px;
 
 /*  border: 1px solid grey;*/
 
