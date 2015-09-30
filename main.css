@@ -2,13 +2,21 @@ ul {
   list-style: none;
 }
 
+.container {
+ width: 100%;
+ padding-left: 170px
+}
 .calculator {
-  height: 600px;
-  width: 420px;
-  padding-left: 0px;
+  height: 511px;
+  width: 408px;
+  text-align: center;
+ /* margin: 0;*/
+ /* padding-left: 0px;*/
+
+/*  border: 1px solid grey;*/
 
 
- /* overflow: hidden;*/
+  overflow: hidden;
 
 }
 
@@ -27,8 +35,9 @@ ul {
   text-align: center;
 }
 
-/*.key-result {
-  width: 300px;
+.key-result {
+  margin-left: 100px;
+  width: 306px;
   height: 100px;
   border: 1px solid grey;
-}*/
+}
